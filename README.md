@@ -6,6 +6,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmetymtkn&label=Profile%20views&color=0e75b6&style=flat" alt="ahmetymtkn" /> </p>
 
+- 🌱 I’m currently learning Python
+
 - 📫 How to reach me **ymtknahmet@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
