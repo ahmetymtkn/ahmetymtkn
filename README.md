@@ -71,6 +71,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Ahmetymtkn/Ahmetymtkn/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ahmetymtkn/ahmetymtkn/output/snake.svg" alt="Snake animation" />
 
 ###
