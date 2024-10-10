@@ -71,6 +71,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Ahmetymtkn/Ahmetymtkn/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img src="https://github.com/ahmetymtkn/ahmetymtkn/blob/output/snake.svg" alt="Snake animation" />
 
 ###
